@@ -23,3 +23,5 @@ header {
 .logo {
       line-height: 60px;
       position: fixed;
+      float: left;
+      margin: 16px 46px;
