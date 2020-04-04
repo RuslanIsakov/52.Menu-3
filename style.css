@@ -20,3 +20,6 @@ header {
       line-height: 30px;
       text-align: justify;
 }
+.logo {
+      line-height: 60px;
+      position: fixed;
