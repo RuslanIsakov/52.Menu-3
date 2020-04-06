@@ -35,3 +35,6 @@ nav {
       width: 100%;
       line-height: 60px;
 }
+nav ul {
+      line-height: 60px;
+      list-style: none;
