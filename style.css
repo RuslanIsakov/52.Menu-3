@@ -64,3 +64,5 @@ nav ul li a {
       width: 100%;
       background: #000;
       text-align: right;
+      box-sizing: border-box;
+      padding: 15px 24px;
